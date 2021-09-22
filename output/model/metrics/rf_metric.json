@@ -1,0 +1,1 @@
+{"train": {"r2_score": 92.17, "rmse_train": 2.22}, "val": {"r2_score": 85.96, "rmse_val": 3.91}}
